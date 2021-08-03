@@ -1,24 +1,25 @@
 <h2>Olá!!! Meu nome é Lucas Bargas</h2>
+https://github.com/LucasBargas
 
 <h3>Sou um apaixonado estudante Front end:</h3>
-<div class="dev-tools" style ="display: flex">
+<div class="dev-tools">
   <figure>
-    <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <a href="https://github.com/LucasBargas"><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   </figure>
  
   <figure>
-    <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <a href="https://github.com/LucasBargas"><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
   </figure>
   
   <figure>
-    <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <a href="https://github.com/LucasBargas"><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
   </figure>
 </div>
 
 
 <h3>Meus contatos:</h3>
 
-<div class="contacts" style ="display: flex">
+<div class="contacts">
   <figure>
     <a target="_blank" href="https://api.whatsapp.com/send?phone=5511984120701"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   </figure>
