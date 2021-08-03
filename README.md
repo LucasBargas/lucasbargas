@@ -1,4 +1,4 @@
-<h2>Olá!!! Meu nome é Lucas Bargas</h2>
+<h2>Olá! Meu nome é Lucas Bargas</h2>
 
 <h3>Sou um apaixonado estudante Front end</h3>
 <div class="dev-tools">
