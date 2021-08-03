@@ -1,6 +1,6 @@
 <h2>Olá!!! Meu nome é Lucas Bargas</h2>
 
-<h3>Sou um apaixonado estudante Front end:</h3>
+<h3>Sou um apaixonado estudante Front end</h3>
 <div class="dev-tools">
   <figure>
     <a href="https://github.com/LucasBargas"><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
