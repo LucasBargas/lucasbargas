@@ -3,15 +3,19 @@
 <h3>Sou um apaixonado estudante Front end</h3>
 <div class="dev-tools">
   <figure>
-    <a href="https://github.com/LucasBargas"><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
+    <a href="https://github.com/LucasBargas"><img alt="Lucas-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   </figure>
  
   <figure>
-    <a href="https://github.com/LucasBargas"><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+    <a href="https://github.com/LucasBargas"><img alt="Lucas-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
   </figure>
   
   <figure>
-    <a href="https://github.com/LucasBargas"><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+    <a href="https://github.com/LucasBargas"><img alt="Lucas-JavasScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+  </figure>
+  
+  <figure>
+    <a href="https://github.com/LucasBargas"><img alt="Lucas-ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
   </figure>
 </div>
 
