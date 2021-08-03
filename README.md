@@ -1,5 +1,4 @@
 <h2>Olá!!! Meu nome é Lucas Bargas</h2>
-https://github.com/LucasBargas
 
 <h3>Sou um apaixonado estudante Front end:</h3>
 <div class="dev-tools">
@@ -33,6 +32,6 @@ https://github.com/LucasBargas
   </figure>
   
   <figure>
-    <a target="_blank" href="mailto:lucasbargas.contato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a target="_blank" href="mailto:lucas.bargasoficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   </figure>
 </div>
