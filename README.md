@@ -1,5 +1,21 @@
 <h2>Olá!!! Meu nome é Lucas Bargas</h2>
 
+<h3>Sou um apaixonado estudante Front end:</h3>
+<div class="dev-tools" style ="display: flex">
+  <figure>
+    <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  </figure>
+ 
+  <figure>
+    <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </figure>
+  
+  <figure>
+    <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  </figure>
+</div>
+
+
 <h3>Meus contatos:</h3>
 
 <div class="contacts" style ="display: flex">
