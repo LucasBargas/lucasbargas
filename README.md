@@ -10,12 +10,12 @@
     <a href="https://github.com/LucasBargas"><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
   </figure>
   
-  <figure>
-    <a href="https://github.com/LucasBargas"><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+   <figure>
+    <a href="https://github.com/LucasBargas"><img height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"></a>
   </figure>
   
   <figure>
-    <a href="https://github.com/LucasBargas"><img height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"></a>
+    <a href="https://github.com/LucasBargas"><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
   </figure>
 </div>
 
