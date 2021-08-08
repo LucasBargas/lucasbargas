@@ -15,6 +15,10 @@
   </figure>
   
   <figure>
+    <a href="https://github.com/LucasBargas"><img title = "bootstrap" alt="Lucas-bootstrap" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"></a>
+  </figure>
+  
+  <figure>
     <a href="https://github.com/LucasBargas"><img title = "javascript" alt="Lucas-JavasScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
   </figure>
 </div>
