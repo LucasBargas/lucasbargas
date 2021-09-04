@@ -19,7 +19,7 @@
   </figure>
   
   <figure>
-    <a href="https://github.com/LucasBargas"><img title = "javascript" alt="Lucas-JavasScript" height="30" width="40" src="https://i.imgur.com/b2XYcMn.png"></a>
+    <a href="https://github.com/LucasBargas"><img title = "javascript" alt="Lucas-JavasScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
   </figure>
 </div>
 
