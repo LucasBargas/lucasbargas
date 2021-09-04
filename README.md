@@ -11,7 +11,7 @@
   </figure>
   
   <figure>
-    <a href="https://github.com/LucasBargas"><img title = "sass" alt="Lucas-css" height="30" width="40" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38569/preview.svg"></a>
+    <a href="https://github.com/LucasBargas"><img title = "sass" alt="Lucas-css" height="30" width="40" src="https://i.imgur.com/oF37vOI.png"></a>
   </figure>
   
   <figure>
@@ -19,7 +19,7 @@
   </figure>
   
   <figure>
-    <a href="https://github.com/LucasBargas"><img title = "javascript" alt="Lucas-JavasScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+    <a href="https://github.com/LucasBargas"><img title = "javascript" alt="Lucas-JavasScript" height="30" width="40" src="https://i.imgur.com/b2XYcMn.png"></a>
   </figure>
 </div>
 
