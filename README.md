@@ -15,7 +15,7 @@
   </figure>
   
   <figure>
-    <a href="https://github.com/LucasBargas"><img title = "bootstrap" alt="Lucas-bootstrap" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"></a>
+    <a href="https://github.com/LucasBargas"><img title = "bootstrap" alt="Lucas-bootstrap" height="30" width="40" src="https://i.imgur.com/XU1LjaM.png"></a>
   </figure>
   
   <figure>
