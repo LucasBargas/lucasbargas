@@ -11,11 +11,11 @@
   </figure>
   
   <figure>
-    <a href="https://github.com/LucasBargas"><img title = "sass" alt="Lucas-css" height="30" width="40" src="https://i.imgur.com/oF37vOI.png"></a>
+    <a href="https://github.com/LucasBargas"><img title = "sass" alt="Lucas-sass" height="30" width="32" src="https://camo.githubusercontent.com/c38bf4a44750bd9b576a2259a5074dd277d63f0a412b5b1f31f54e516711ef5b/687474703a2f2f736173732d6c616e672e636f6d2f6173736574732f696d672f7374796c6567756964652f7365616c2d636f6c6f722d61656630333534632e706e67"></a>
   </figure>
   
   <figure>
-    <a href="https://github.com/LucasBargas"><img title = "bootstrap" alt="Lucas-bootstrap" height="30" width="40" src="https://i.imgur.com/XU1LjaM.png"></a>
+    <a href="https://github.com/LucasBargas"><img title = "bootstrap" alt="Lucas-bootstrap" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"></a>
   </figure>
   
   <figure>
