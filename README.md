@@ -1,6 +1,7 @@
 <h2>Olá! Meu nome é Lucas Bargas</h2>
 
 <h3>Sou um apaixonado estudante Front end</h3>
+
 <div class="dev-tools">
   <figure>
     <a href="https://github.com/LucasBargas"><img title = "html5" alt="Lucas-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
@@ -38,4 +39,11 @@
   <figure>
     <a target="_blank" href="mailto:lucas.bargasoficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   </figure>
+</div>
+
+
+<h3>Meu portfólio também está disponível em meu site pessoal:</h3>
+
+<div class="personal-app">
+  <a href="https://projetoslucasbargas.com/">https://projetoslucasbargas.com/</a>
 </div>
