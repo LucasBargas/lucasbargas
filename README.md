@@ -24,7 +24,7 @@
   </figure>
   
   <figure>
-    <a href="https://github.com/LucasBargas"><img title = "nextJS" alt="Lucas-NextJS" height="30" width="30" src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png"></a>
+    <a href="https://github.com/LucasBargas"><img title = "nextJS" alt="Lucas-NextJS" height="30" width="30" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png"></a>
   </figure>
   
   <figure>
