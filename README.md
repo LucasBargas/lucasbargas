@@ -22,6 +22,14 @@
   <figure>
     <a href="https://github.com/LucasBargas"><img title = "reactJS" alt="Lucas-ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
   </figure>
+  
+  <figure>
+    <a href="https://github.com/LucasBargas"><img title = "nextJS" alt="Lucas-NextJS" height="30" width="30" src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png"></a>
+  </figure>
+  
+  <figure>
+    <a href="https://github.com/LucasBargas"><img title = "tailwindcss" alt="Lucas-TailwindCSS" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"></a>
+  </figure>
 </div>
 
 
