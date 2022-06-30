@@ -20,6 +20,10 @@
   </figure>
   
   <figure>
+    <a href="https://github.com/LucasBargas"><img title = "typescript" alt="Lucas-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
+  </figure>
+  
+  <figure>
     <a href="https://github.com/LucasBargas"><img title = "reactJS" alt="Lucas-ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
   </figure>
   
