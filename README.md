@@ -4,11 +4,11 @@
 
 <div class="dev-tools">
   <figure>
-    <a href="https://github.com/LucasBargas"><img title = "html5" alt="Lucas-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
+    <a href="https://github.com/LucasBargas"><img title = "html5" alt="Lucas-html" height="30" width="40" src="https://projetoslucasbargas.vercel.app/_next/static/media/html5-logo.a2198806.svg"></a>
   </figure>
  
   <figure>
-    <a href="https://github.com/LucasBargas"><img title = "css3" alt="Lucas-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+    <a href="https://github.com/LucasBargas"><img title = "css3" alt="Lucas-css" height="30" width="40" src="https://projetoslucasbargas.vercel.app/_next/static/media/css3-logo.fe70a3d1.svg"></a>
   </figure>
   
   <figure>
@@ -20,7 +20,7 @@
   </figure>
   
   <figure>
-    <a href="https://github.com/LucasBargas"><img title = "typescript" alt="Lucas-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
+    <a href="https://github.com/LucasBargas"><img title = "typescript" alt="Lucas-TypeScript" height="30" width="40" src="https://projetoslucasbargas.vercel.app/_next/static/media/typescript-logo.ba49441d.svg"></a>
   </figure>
   
   <figure>
