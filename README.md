@@ -34,6 +34,14 @@
   <figure>
     <a href="https://github.com/LucasBargas"><img title = "tailwindcss" alt="Lucas-TailwindCSS" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"></a>
   </figure>
+  
+  <figure>
+    <a href="https://github.com/LucasBargas"><img title = "tailwindcss" alt="Lucas-TailwindCSS" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png"></a>
+  </figure>
+  
+  <figure>
+    <a href="https://github.com/LucasBargas"><img title = "tailwindcss" alt="Lucas-TailwindCSS" height="30" width="30" src="https://www.svgrepo.com/show/331488/mongodb.svg"></a>
+  </figure>
 </div>
 
 
