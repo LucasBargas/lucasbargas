@@ -40,6 +40,10 @@
   </figure>
   
   <figure>
+    <a href="https://github.com/LucasBargas"><img title = "mysql" alt="Lucas-MySQL" height="30" width="30" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"></a>
+  </figure>
+  
+  <figure>
     <a href="https://github.com/LucasBargas"><img title = "mongodb" alt="Lucas-MongoDB" height="30" width="30" src="https://www.svgrepo.com/show/331488/mongodb.svg"></a>
   </figure>
 </div>
