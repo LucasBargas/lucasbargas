@@ -2,46 +2,38 @@
 
 <h3>Sou um apaixonado estudante Full Stack!</h3>
 
-<div class="dev-tools">
-  <figure>
-    <a href="https://github.com/LucasBargas"><img title = "html5" alt="Lucas-html" height="30" width="40" src="https://projetoslucasbargas.vercel.app/_next/static/media/html5-logo.a2198806.svg"></a>
-  </figure>
- 
-  <figure>
-    <a href="https://github.com/LucasBargas"><img title = "css3" alt="Lucas-css" height="30" width="40" src="https://projetoslucasbargas.vercel.app/_next/static/media/css3-logo.fe70a3d1.svg"></a>
-  </figure>
-  
+<div class="dev-tools">  
   <figure>
     <a href="https://github.com/LucasBargas"><img title = "sass" alt="Lucas-sass" height="30" width="31" src="https://camo.githubusercontent.com/c38bf4a44750bd9b576a2259a5074dd277d63f0a412b5b1f31f54e516711ef5b/687474703a2f2f736173732d6c616e672e636f6d2f6173736574732f696d672f7374796c6567756964652f7365616c2d636f6c6f722d61656630333534632e706e67"></a>
-  </figure>
+  </figure> -
   
    <figure>
     <a href="https://github.com/LucasBargas"><img title = "javascript" alt="Lucas-JavasScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
-  </figure>
+  </figure> -
   
   <figure>
     <a href="https://github.com/LucasBargas"><img title = "typescript" alt="Lucas-TypeScript" height="30" width="40" src="https://projetoslucasbargas.vercel.app/_next/static/media/typescript-logo.ba49441d.svg"></a>
-  </figure>
+  </figure> -
   
   <figure>
     <a href="https://github.com/LucasBargas"><img title = "reactJS" alt="Lucas-ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
-  </figure>
+  </figure> -
   
   <figure>
     <a href="https://github.com/LucasBargas"><img title = "nextJS" alt="Lucas-NextJS" height="30" width="30" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png"></a>
-  </figure>
+  </figure> -
   
   <figure>
     <a href="https://github.com/LucasBargas"><img title = "tailwindcss" alt="Lucas-TailwindCSS" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"></a>
-  </figure>
+  </figure> -
   
   <figure>
     <a href="https://github.com/LucasBargas"><img title = "nodejs" alt="Lucas-NodeJS" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png"></a>
-  </figure>
+  </figure> -
   
   <figure>
     <a href="https://github.com/LucasBargas"><img title = "mysql" alt="Lucas-MySQL" height="30" width="30" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"></a>
-  </figure>
+  </figure> -
   
   <figure>
     <a href="https://github.com/LucasBargas"><img title = "mongodb" alt="Lucas-MongoDB" height="30" width="30" src="https://www.svgrepo.com/show/331488/mongodb.svg"></a>
