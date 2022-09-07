@@ -1,6 +1,6 @@
-<h2>Olá! Meu nome é Lucas Bargas</h2>
+<h2>Hi! My names is Lucas Bargas</h2>
 
-<h3>Sou um apaixonado estudante Full Stack!</h3>
+<h3>I'm a passionate studant of Full Stack development</h3>
 
 <div class="dev-tools">  
   <figure>
@@ -41,7 +41,7 @@
 </div>
 
 
-<h3>Meus contatos:</h3>
+<h3>My contacts:</h3>
 
 <div class="contacts">
   <figure>
@@ -58,7 +58,7 @@
 </div>
 
 
-<h3>Meu portfólio também está disponível em meu site pessoal:</h3>
+<h3>My portfolio is also available on my personal website:</h3>
 
 <div class="personal-app">
   <a href="https://projetoslucasbargas.com/">https://projetoslucasbargas.com/</a>
