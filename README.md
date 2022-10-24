@@ -1,6 +1,6 @@
 <h2>Hi! My names is Lucas Bargas</h2>
 
-<h3>I'm a passionate studant of Full Stack development</h3>
+<h3>I'm a passionate student of Full Stack development</h3>
 
 <div class="dev-tools">  
   <figure>
