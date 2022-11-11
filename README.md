@@ -61,5 +61,5 @@
 <h3>My portfolio is also available on my personal website:</h3>
 
 <div class="personal-app">
-  <a href="https://projetoslucasbargas.com/">https://projetoslucasbargas.com/</a>
+  <a href="https://projetoslucasbargas.vercel.app/">https://projetoslucasbargas.vercel.app/</a>
 </div>
