@@ -8,11 +8,15 @@
   </figure> -
   
    <figure>
-    <a href="https://github.com/LucasBargas"><img title = "javascript" alt="Lucas-JavasScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+    <a href="https://github.com/LucasBargas"><img title = "javascript" alt="Lucas-JavasScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
   </figure> -
   
   <figure>
-    <a href="https://github.com/LucasBargas"><img title = "typescript" alt="Lucas-TypeScript" height="30" width="40" src="https://projetoslucasbargas.vercel.app/_next/static/media/typescript-logo.ba49441d.svg"></a>
+    <a href="https://github.com/LucasBargas"><img title = "typescript" alt="Lucas-TypeScript" height="30" src="https://projetoslucasbargas.vercel.app/_next/static/media/typescript-logo.ba49441d.svg"></a>
+  </figure> -
+  
+  <figure>
+    <a href="https://github.com/LucasBargas"><img title = "vueJS" alt="Lucas-VueJS" height="30" src="https://v2.vuejs.org/images/logo.svg"></a>
   </figure> -
   
   <figure>
