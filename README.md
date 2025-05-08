@@ -16,10 +16,6 @@
   </figure> -
   
   <figure>
-    <a href="https://github.com/LucasBargas"><img title = "vueJS" alt="Lucas-VueJS" height="30" src="https://v2.vuejs.org/images/logo.svg"></a>
-  </figure> -
-  
-  <figure>
     <a href="https://github.com/LucasBargas"><img title = "reactJS" alt="Lucas-ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
   </figure> -
   
@@ -33,10 +29,6 @@
   
   <figure>
     <a href="https://github.com/LucasBargas"><img title = "nodejs" alt="Lucas-NodeJS" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png"></a>
-  </figure> -
-  
-  <figure>
-    <a href="https://github.com/LucasBargas"><img title = "mysql" alt="Lucas-MySQL" height="30" width="30" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"></a>
   </figure> -
   
   <figure>
