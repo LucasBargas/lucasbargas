@@ -14,13 +14,17 @@
   <figure>
     <a href="https://github.com/LucasBargas"><img title = "typescript" alt="Lucas-TypeScript" height="30" src="https://projetoslucasbargas.vercel.app/_next/static/media/typescript-logo.ba49441d.svg"></a>
   </figure> -
+
+  <figure>
+    <a href="https://github.com/LucasBargas"><img title = "angular" alt="Lucas-Angular" height="30" width="40" src="https://icon.icepanel.io/Technology/svg/AngularJS.svg"></a>
+  </figure> -
   
   <figure>
     <a href="https://github.com/LucasBargas"><img title = "reactJS" alt="Lucas-ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
   </figure> -
   
   <figure>
-    <a href="https://github.com/LucasBargas"><img title = "nextJS" alt="Lucas-NextJS" height="30" width="30" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png"></a>
+    <a href="https://github.com/LucasBargas"><img title = "nextJS" alt="Lucas-NextJS" height="30" width="30" src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png"></a>
   </figure> -
   
   <figure>
